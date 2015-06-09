@@ -1,0 +1,20 @@
+.row div{
+
+    display: inline-block;
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    vertical-align: top;
+}
+.row1 {
+    color: aqua;
+}
+
+.row2 {
+    color: lime;
+}
+
+row3{
+    
+    color: purple;
+}
